@@ -1,5 +1,5 @@
 # Temporal graph-rcnn for self-driving systems
-Pytorch code for our MECPS 2020 capstone project which is an improvement on ECCV 2018 paper ["Graph R-CNN for Scene Graph Generation"](https://arxiv.org/pdf/1808.00191.pdf)
+Pytorch code for our master's 2020 capstone project which is an improvement on ECCV 2018 paper ["Graph R-CNN for Scene Graph Generation"](https://arxiv.org/pdf/1808.00191.pdf)
 
 <!-- :balloon: 2019-06-04: Okaaay, time to reimplement Graph R-CNN on pytorch 1.0 and release a new benchmark for scene graph generation. It will also integrate other models like IMP, MSDN and Neural Motif Network. Stay tuned!
 
@@ -112,14 +112,8 @@ If you want to visualize some examples, you just simple append the command with:
 
 ## Citation
 
-    @inproceedings{yang2018graph,
-        title={Graph r-cnn for scene graph generation},
-        author={Yang, Jianwei and Lu, Jiasen and Lee, Stefan and Batra, Dhruv and Parikh, Devi},
-        booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-        pages={670--685},
-        year={2018}
-    }
+Currently in the process of publishing. Citation details coming soon
 
 ## Acknowledgement
 
-We appreciate much the nicely organized code developed by [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark). Our codebase is built mostly based on it.
+We appreciate much the nicely organized code developed by [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) and [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch). Our codebase is built mostly based on it.
